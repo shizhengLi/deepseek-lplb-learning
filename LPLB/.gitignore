@@ -1,0 +1,9 @@
+dist/
+build/
+*.egg-info/
+*.so
+*.pyc
+__pycache__/
+lplb/resources/mathdx/
+nvidia-mathdx-*.tar.gz
+.vscode/
